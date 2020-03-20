@@ -1,0 +1,57 @@
+Iteration 0:
+
+joint vector (rad):
+2.618,0.524,-1.571,1.047,-0.524,-1.571
+
+SE(3) end-effector config:
+0.000,1.000,0.000,-0.543
+0.000,0.000,-1.000,0.106
+-1.000,-0.000,-0.000,0.121
+0.000,0.000,0.000,1.000
+
+error twist V_b:
+0.000,0.000,0.000,0.021,0.043,0.006
+
+angular error magnitude ||omega_b||: 0.0000
+
+linear error magnitude ||v_b||: 0.0482 
+
+ 
+Iteration 1:
+
+joint vector (rad):
+2.589,0.617,-1.733,1.116,-0.553,-1.571
+
+SE(3) end-effector config:
+0.000,1.000,-0.000,-0.499
+-0.000,-0.000,-1.000,0.098
+-1.000,0.000,0.000,0.100
+0.000,0.000,0.000,1.000
+
+error twist V_b:
+0.000,0.000,0.000,0.000,-0.001,-0.002
+
+angular error magnitude ||omega_b||: 0.0000
+
+linear error magnitude ||v_b||: 0.0026 
+
+ 
+Iteration 2:
+
+joint vector (rad):
+2.586,0.615,-1.727,1.111,-0.555,-1.571
+
+SE(3) end-effector config:
+0.000,1.000,-0.000,-0.500
+-0.000,-0.000,-1.000,0.100
+-1.000,0.000,0.000,0.100
+0.000,0.000,0.000,1.000
+
+error twist V_b:
+0.000,0.000,0.000,-0.000,-0.000,0.000
+
+angular error magnitude ||omega_b||: 0.0000
+
+linear error magnitude ||v_b||: 0.0000 
+
+ 
